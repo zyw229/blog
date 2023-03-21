@@ -37,5 +37,3 @@ However, the effects of such move do not stop within the treasury market. The ra
 *SPY, the most popular equity index fund, saw gradually better inflow since last week*
 
 That's the reason why I find it pointless deciding whether this is 'QE' or not. Similar to QE, the net effect of the bank rescue package is risk-positive, pushing investors out on the yield curve. This is equivalent to a mini-QE program, and that's what the market should only care about, at least in the short term.
-
-[r01]: [https://fedguy.com/hidden-to-market/](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro001/image001.png)
