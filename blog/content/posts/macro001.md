@@ -3,11 +3,11 @@ title: "Mini-QE, US version"
 date: 2023-03-21T14:50:00-07:00
 ---
 
-### Summary
+## Summary
 
 In this article, we discuss the effect of the proposed bank rescue package and why it was risk-positive for the market, and why the debate on whether this is QE is pointless. The market should only care about the fact that this rescue package achieves similar results of a QE program.
 
-###
+---
 
 One thing that caught the market's attention last week was the sudden spike in the Fed's balance sheet, effectively reversing the amount achieved by QT since last November:
 
