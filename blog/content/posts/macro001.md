@@ -14,7 +14,7 @@ One thing that caught the market's attention last week was the sudden spike in t
 ![Fed balance sheet since last year](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro001/image001.png)
 *Fed balance sheet spike has effectively reversed the QT efforts since last November*
 
-There has been much debate about whether this signals the end of QT, and perhaps the beginning of the next round of QE. However, I think there is little point of debating whether this is 'QE' or not. By definition, this is definitely not QE; however, it is useful to think about how this will affect the fund flows.
+There has been much debate about whether this signals the end of QT, and perhaps the beginning of the next round of QE. However, I think there is little point of debating whether this is 'QE' or not. By definition, this is not QE; however, it is useful to think about how this will affect the fund flows.
 
 Let's first consider the immediate effect of the runs on regional banks and the Bank Term Funding Program (BTFP) that started last week.
 
@@ -31,11 +31,11 @@ Looking at the net effects of such mechanism, BTFP backstopped high-risk banks f
 ![2-year treasury yield since SVB collapse](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro001/image002.png)
 *2-year treasury yield has dropped significantly since SVB collapse*
 
-However, the effects of such move do not stop within the treasury market. The rapid decrease in short-term yield (2-yr yield dropping from above 5% to below 4% within a week) inevitably pushes investor out on the risk curve. T-bill holders may consider extending their duration, while more investor will consider buying tech stocks, gold, or even crypto, instead of T-bills considering the decreasing attractiveness of short-term yield.
+However, the effects of such move do not stop within the treasury market. The rapid decrease in short-term yield (2-yr yield dropping from above 5% to below 4% within a week) inevitably pushes investor out on the risk curve. T-bill holders may consider extending their duration, while more investors will consider buying tech stocks, gold, or even crypto, instead of T-bills considering the decreasing attractiveness of short-term yield.
 
 ![index fund inflows were solid last week](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro001/image003.png)
 *SPY, the most popular equity index fund, saw gradually better inflow since last week*
 
-That's the reason why I find it pointless deciding whether this is 'QE' or not. QE also had the effect of pushing investor out on the risk curve. Regardless of terminology, the effect of such implementation is risk-positive. This is almost equivalent to a mini-QE program, and that's what the market should only care about, at least in the short term.
+That's the reason why I find it pointless deciding whether this is 'QE' or not. Similar to QE, the net effect of the bank rescue package is risk-positive, pushing investors out on the yield curve. This is equivalent to a mini-QE program, and that's what the market should only care about, at least in the short term.
 
 [r01]: [https://fedguy.com/hidden-to-market/](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro001/image001.png)
