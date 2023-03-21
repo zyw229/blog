@@ -11,13 +11,13 @@ There has been much debate about whether this signals the end of QT, and perhaps
 
 Let's first consider the immediate effect of the runs on regional banks and the Bank Term Funding Program (BTFP) that started last week.
 
-The Bank Term Funding Program (BTFP) assured the at-risk regional banks that they don't have to sell their low-risk assets. This backstopped the fire-sale of low-risk assets caused by potential future bank runs. However, presumably, a good number of depositors in medium-to-small regional banks took their money out. Assuming they don't immediate YOLO their money and buy stonks or crypto, they basically have three choices:
+The Bank Term Funding Program (BTFP) assured the at-risk regional banks that they don't have to sell their low-risk assets. This backstopped the fire-sale of low-risk assets in prevention of future bank runs. However, presumably, a good number of depositors in medium-to-small regional banks took their money out. Assuming they don't immediate YOLO and buy stonks or crypto, they basically have three choices:
 
 1. Buy Money Market Fund (MMF) and get some risk-free yield;
 1. Invest in treasury, get some yield free of default risk, but bear some duration risk;
 1. Deposit their money into safer banks.
 
-I am uncertain what percentage of those money ended up in MMF or treasury directly, but it is not crazy to assume the majority of money ended up in safer banks. This additional inflow increases the deposit base of large banks, further boosting their balance sheet, and some portion of it will end up in the treasury and MBS markets.
+I'm uncertain what percentage of those money ended up in MMF or treasury directly, but it is not crazy to assume that most of money ended up in safer banks. This additional inflow increases the deposit base of large banks, further boosting their balance sheet, and some portion of it will end up in the treasury and MBS markets.
 
 Looking at the net effects of such mechanism, BTFP backstopped high-risk banks from fire-selling their high quality assets; while low-risk banks saw an inflow of deposits that allowed them to purchase more high-quality assets like treasury bonds. This net effect possibly contributed to the aggressive upward move in the treasury market since the bank failures.
 
