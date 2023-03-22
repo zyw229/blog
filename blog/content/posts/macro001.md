@@ -25,7 +25,7 @@ The BTFP assured the at-risk regional banks that they don't have to sell their l
 1. Invest in treasury, get some yield free of default risk;
 1. Deposit their money into safer banks.
 
-I'm uncertain what percentage of those money ended up in MMF or treasury directly, but it is not crazy to assume that most of money ended up in safer banks (option 3 above). This additional inflow **increases** the deposit base of large banks, further boosting their balance sheet, and some portion of it will end up in the treasury and MBS markets. (Note: option 2 also created additional inflow towards the treasury market.)
+It is not crazy to assume that most of money ended up in safer banks (option 3 above). This additional inflow **increases** the deposit base of large banks, further boosting their balance sheet, and some portion of it will end up in the treasury and MBS markets. (Note: option 2 also created direct inflow towards the treasury market.)
 
 Looking at the net effects of such mechanism, BTFP backstopped high-risk banks from fire-selling their high quality assets; while low-risk banks saw an inflow of deposits that allowed them to purchase more high-quality assets like treasury bonds. This net effect possibly contributed to the aggressive upward move in the treasury market since the bank failures.
 
@@ -33,7 +33,7 @@ Looking at the net effects of such mechanism, BTFP backstopped high-risk banks f
 
 > 2-year treasury yield has dropped significantly since SVB collapse
 
-However, the effects of such move did not stop within the treasury market. The rapid decrease in short-term yield inevitably pushes investor out on the risk curve. T-bill holders may consider extending their duration, while more investors will consider buying tech stocks, gold, or even crypto, instead of T-bills considering the decreasing attractiveness of short-term yield.
+However, the effects of such move did not stop within the treasury market. The rapid decrease in short-term yield inevitably pushes investors out on the risk curve. T-bill holders may consider extending their duration, while more investors will consider buying tech stocks, gold, or even crypto, instead of T-bills considering the decreasing attractiveness of short-term yield.
 
 ![index fund inflows were solid last week](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro001/image003.png)
 
