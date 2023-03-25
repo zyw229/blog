@@ -5,7 +5,7 @@ date: 2023-03-24T00:01:19-07:00
 
 ## Summary
 
-The risk asset bull run since start of 2023 has been driven by a series of favorable technical factors. However, with those factors diminishing, it must find new sources of fuel. We argue that a prolonged regional bank crisis might be necessary to sustain this bull run, while US banking system stablization could, ironically, be the last nail in the coffin for risk assets.
+The risk asset bull run since start of 2023 has been driven by a series of favorable technical factors. However, with those factors diminishing, it must find new sources of fuel. We argue that a prolonged regional bank crisis might be necessary to sustain this bull run, while a US banking system stablization could, ironically, be the last nail in the coffin for risk assets.
 
 ---
 
@@ -17,7 +17,7 @@ Since start of 2023, market has been gererally upbeat despite weak fundamentals.
 
 Q1 historically sees decent inflows into the market from retirement plans, 401K plans etc. However, this year's inflow, especially towards tech sector, is also likely propelled by the reversal effect of the stronger-than-usual tax-loss harvesting in Q4 2022.
 
-Throughout Q4 2022, investors had been selling the worst performing assets for the year for tax benefits. It's not hard to see why risk assets was sold more than in normal years. However, at the turn of year, investors found themselves extremely underweight risk. This resulted in a stronger-than-usual inflow towards risk assets.
+Throughout Q4 2022, investors had been selling the worst performing assets for the year for tax benefits. It's not hard to see why risk assets ware sold harder in 2022 than in normal years. However, at start of 2023, investors found themselves extremely underweight risk. This resulted in a stronger-than-usual inflow towards risk assets.
 
 ![SPY vs QQQ](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro002/image001.png)
 
