@@ -1,11 +1,11 @@
 ---
 title: "Liquidity party is (almost) over"
-date: 2023-03-23T18:01:19-07:00
+date: 2023-03-24T00:01:19-07:00
 ---
 
 ## Summary
 
-The bull run of risk assets since start of 2023 has been driven by a series of favorable technical factors. However, with those factors diminishing, it must find new sources of fuel. We argue that a prolonged regional bank crisis might be necessary to sustain this bull run, while US banking system stablization could, ironically, be the last nail in the coffin for risk assets.
+The risk asset bull run since start of 2023 has been driven by a series of favorable technical factors. However, with those factors diminishing, it must find new sources of fuel. We argue that a prolonged regional bank crisis might be necessary to sustain this bull run, while US banking system stablization could, ironically, be the last nail in the coffin for risk assets.
 
 ---
 
