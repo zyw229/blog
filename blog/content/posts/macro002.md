@@ -37,7 +37,7 @@ Another important factor was the TGA. The looming US debt ceiling actually resul
 
 ### Interest rate expectation
 
-Since last December, Fed has generally under delivered in terms of rate hike versus market expectation. For example, after the Feb 2023 meeting, Fed only raised rates to 450bps, compared to consensus market expectation of 475bps ~2 months ago.
+Since last December, Fed has generally underdelivered in terms of rate hikes versus market expectation. For example, after the Feb 2023 meeting, Fed only raised rates to 450bps, compared to consensus expectation of 475bps ~2 months ago.
 
 ![Feb 2023 meeting](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro002/image004.png)
 
@@ -49,22 +49,22 @@ Normally, seasonality factor does not sustain past Q1. The TGA account has only 
 
 ![May 2023 meeting](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro002/image005.png)
 
-> A pause has been almost completely priced in for the May FOMC.
+> A pause has been almost completely priced in for the May 2023 FOMC meeting.
 
 However, as discussed in my [previous post](https://zyw229.github.io/posts/macro001/), recent US bank rescue package has had an unintended positive effect on risk assets. This likely sustained risk assets for a bit longer.
 
 ## Is the party over?
 
-The market can still cling on the [mini-QE](https://zyw229.github.io/posts/macro001/) effects, if the deposit outflow from small banks continue. If it accelerates and prompts more action from the Fed, and maybe even forces them to lower interest rate, it will be a huge positive for risk assets.
+The market can still cling on the [mini-QE](https://zyw229.github.io/posts/macro001/) effects from BTFP. If the constant deposit outflow from regional banks continues. If situation worsens and prompts more action from the Fed, and maybe even forces them to lower interest rate, it will be a big positive for risk assets.
 
-However, recent data suggests the outflow might have stablized a bit. Usage of BTFP has decreased a lot, suggesting a temporary stabilization of US banking system. If this trend sustains, it means the QE effect achieved by BTFP may also be coming to an end.
+However, recent data suggests the outflow might have stablized a bit. Usage of BTFP has decreased a lot, suggesting a temporary stabilization of US banking system. If this trend sustains, the QE effect achieved by BTFP may also be coming to an end.
 
 ![BTFP usage](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro002/image006.png)
 
 > Usage of the BTFP facility has decreased from ~$300B last week to ~36B this week.
 
-The Reverse Repo (RRP) Rate at 475bps after the latest rate hike, which remarkably made the overnight rate the highest point of the entire treasury yield curve.
+The Reverse Repo (RRP) Rate reached 475bps after the latest rate hike, which remarkably made the overnight rate the highest point of the entire risk-free yield curve.
 
-This sends a dangerous signal to the market. Once the sentiment changes, investors will turn risk-adverse and will be pushed inward on the risk curve. The RRP, being the higest yield on the risk-free curve, will be acting like a black hole sucking up all the liquidity that has been fueling this bull run.
+This sends a dangerous signal to the market. Once the sentiment changes and investors turn risk-adverse, everyone will be pushed inward on the risk curve. The RRP, being the higest yield on the risk-free curve, will be acting like a black hole sucking up all the liquidity that has been fueling this bull run.
 
-However, the market is not doomed yet. Ironically, the best thing to keep this risk asset bull run going is probably a prolonged US banking crisis. Even in that case, it will still be a very tricky play.
+However, the market is not doomed yet. Ironically, the best thing that could happen to keep this bull run going is might a prolonged US banking crisis.
