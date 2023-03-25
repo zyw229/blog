@@ -55,7 +55,7 @@ However, as discussed in my [previous post](https://zyw229.github.io/posts/macro
 
 ## Is the party over?
 
-The market can still cling on the [mini-QE](https://zyw229.github.io/posts/macro001/) effects from BTFP, given the constant deposit outflow from regional banks continues. If situation further worsens and prompts more action from the Fed, and maybe even forces them to lower interest rate, it will be a big positive for risk assets.
+The market can still cling onto the [mini-QE](https://zyw229.github.io/posts/macro001/) effects from BTFP, given the constant deposit outflow from regional banks continues. If situation further worsens and prompts more action from the Fed, and maybe even forces them to lower interest rate, it will be a big positive for risk assets.
 
 However, recent data suggests the outflow might have stablized a bit. Usage of BTFP has decreased a lot, suggesting a temporary stabilization of US banking system. If this trend sustains, the QE effect achieved by BTFP may also be coming to an end.
 
@@ -67,4 +67,4 @@ On the other hand, the Reverse Repo (RRP) Rate reached 475bps after the latest r
 
 This sends a dangerous signal to the market. Once the sentiment changes and investors turn risk-adverse, everyone will be pushed inward on the risk curve. The RRP, being the higest yield on the risk-free curve, will be acting like a black hole sucking up all the liquidity that has been fueling this bull run.
 
-However, the market is not doomed yet. Ironically, the best thing that could happen to keep this bull run going might actually be a prolonged US banking crisis.
+The market is not completely doomed yet. It could still be sustained by a continuous liquidity pump caused by deposit rebalance within the US banking system through BTFP. Therefore, ironically, the best thing that could happen to keep this bull run going might actually be a prolonged US regional bank crisis.
