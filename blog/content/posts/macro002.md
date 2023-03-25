@@ -27,7 +27,7 @@ SPY outformed QQQ by more than 5% from mid-October to end of 2022. However, the 
 
 ### Treasury general account (TGA)
 
-Another important factor was the TGA. The looming US debt ceiling actually resulted in Treasury withdrawing from the TGA since second half of 2022. This limited the supply of treasury. The outflow from TGA eventually moves into bank deposits, further adding liquidity.
+Another important factor was the TGA. The looming US debt ceiling resulted in Treasury withdrawing from the TGA since second half of 2022. This limited the supply of treasury. The outflow from TGA eventually moves into bank deposits, further adding liquidity.
 
 ![TGA](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro002/image002.png)
 
@@ -67,4 +67,4 @@ On the other hand, the Reverse Repo (RRP) Rate reached 475bps after the latest r
 
 This sends a dangerous signal to the market. Once the sentiment changes and investors turn risk-adverse, everyone will be pushed inward on the risk curve. The RRP, being the higest yield on the risk-free curve, will be acting like a black hole sucking up all the liquidity that has been fueling this bull run.
 
-However, the market is not doomed yet. Ironically, the best thing that could happen to keep this bull run going might be a prolonged US banking crisis.
+However, the market is not doomed yet. Ironically, the best thing that could happen to keep this bull run going might actually be a prolonged US banking crisis.
