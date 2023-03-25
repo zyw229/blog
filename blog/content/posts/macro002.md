@@ -55,7 +55,7 @@ However, as discussed in my [previous post](https://zyw229.github.io/posts/macro
 
 ## Is the party over?
 
-The market can still cling on the [mini-QE](https://zyw229.github.io/posts/macro001/) effects from BTFP. If the constant deposit outflow from regional banks continues. If situation worsens and prompts more action from the Fed, and maybe even forces them to lower interest rate, it will be a big positive for risk assets.
+The market can still cling on the [mini-QE](https://zyw229.github.io/posts/macro001/) effects from BTFP, given the constant deposit outflow from regional banks continues. If situation further worsens and prompts more action from the Fed, and maybe even forces them to lower interest rate, it will be a big positive for risk assets.
 
 However, recent data suggests the outflow might have stablized a bit. Usage of BTFP has decreased a lot, suggesting a temporary stabilization of US banking system. If this trend sustains, the QE effect achieved by BTFP may also be coming to an end.
 
@@ -63,8 +63,8 @@ However, recent data suggests the outflow might have stablized a bit. Usage of B
 
 > Usage of the BTFP facility has decreased from ~$300B last week to ~36B this week.
 
-The Reverse Repo (RRP) Rate reached 475bps after the latest rate hike, which remarkably made the overnight rate the highest point of the entire risk-free yield curve.
+On the other hand, the Reverse Repo (RRP) Rate reached 475bps after the latest rate hike, which remarkably made the overnight rate the highest point of the entire risk-free yield curve.
 
 This sends a dangerous signal to the market. Once the sentiment changes and investors turn risk-adverse, everyone will be pushed inward on the risk curve. The RRP, being the higest yield on the risk-free curve, will be acting like a black hole sucking up all the liquidity that has been fueling this bull run.
 
-However, the market is not doomed yet. Ironically, the best thing that could happen to keep this bull run going is might a prolonged US banking crisis.
+However, the market is not doomed yet. Ironically, the best thing that could happen to keep this bull run going might be a prolonged US banking crisis.
