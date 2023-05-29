@@ -1,0 +1,7 @@
+[submodule "blog/public"]
+	path = blog/public
+	url = https://github.com/zyw229/zyw229.github.io.git
+[submodule "zyw229.github.io"]
+	path = zyw229.github.io
+	url = https://github.com/zyw229/zyw229.github.io.git
+	branch = main
