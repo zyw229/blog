@@ -42,7 +42,7 @@ As discussed in my [previous article](https://zyw229.github.io/posts/macro001/),
 
 The introduction of BTFP created an interesting dynamic. The tighter financial condition is, the more usage of BTFP it will encourage, therefore effectively negating some of the effects of tight financial condition.
 
-If financial condition is so tight as in February that it causes banks to fail, it leads to more liquidity by generating FDIC loans.
+If financial condition is so tight to the extent that it causes more banks to fail, the tightening effect caused by money being destroyed will also be partially negated by liquidity injection through FDIC loans.
 
 ![Fig4](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro003/image004.png)
 
@@ -73,7 +73,7 @@ Assuming no more bank failures, the ongoing QT and the upcoming TGA refill (to b
 
 ### Bank walk & controlled demolition
 
-Banks have other loans that are not BTFP-eligible (e.g. commercial real estate loans). If anything, those are probably the main reason if more banks were to fail later in the year. However, after the initial SVB shock that caught banks off guard, most banks have significantly improved their asset allocation to be more resilient to future interest rate shocks. One notable example is one struggling bank: PacWest, who [proactively offloaded some portion of its bad loans](https://finance.yahoo.com/news/struggling-pacwest-offloads-real-estate-151928827.html). All regional banks, barring a few outliers, should be well positioned to survive another few months.
+Banks have other assets that are not BTFP-eligible (e.g. commercial real estate loans). If anything, those will probably be the main reason if more banks were to fail later in the year. However, after the initial SVB shock that caught regional banks off guard, a lot of banks have significantly improved their asset allocation to be more resilient to future interest rate shocks. One notable example is one struggling bank: PacWest, who [proactively offloaded some portion of its bad loans](https://finance.yahoo.com/news/struggling-pacwest-offloads-real-estate-151928827.html). All regional banks, barring a few outliers, should be well positioned to survive another few months.
 
 Although bank can do whatever it needs to improve its asset allocation, it cannot solve the fundamental problem that deposits are slowly leaving the system. This deposit loss is not necessarily due to panic, but rather due to much better alternative (even the RRP is at 5%!) compared to the deposit rates those banks are offering.
 
@@ -81,7 +81,7 @@ Although bank can do whatever it needs to improve its asset allocation, it canno
 
 > Deposit level shows modest outflow (not seasonally adjusted) for both large & small US banks since SVB failure.
 
-First Republic has shown us a slow "bank walk" can cause a bank to fail. As this "bank walk" continues across the board, and with no massive monetary policy relief in sight, it's only a matter of time until more regional banks collapse under pressure. After a relatively stable period since those three banks fail, in a few months time, we may finally see another wave of bank failures as this pressure builds up again. And this controlled demolition of regional banks goes on...
+First Republic has shown us a slow bank run can cause a bank to fail. As this "bank walk" continues across the board, and with no massive monetary policy relief in sight, it's only a matter of time until more regional banks collapse under pressure. After a relatively stable period, in a few months time, we may start to see another wave of bank failures as the pressure builds up again. And this controlled demolition of regional banks goes on...
 
 ## Liquidity outlook
 
