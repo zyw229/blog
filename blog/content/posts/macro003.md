@@ -6,7 +6,7 @@ draft: false
 
 ## Summary
 
-Since 2022, regional banks have been having a hard time. The introduction of the Bank Term Funding Program (BTFP) has tied banking sector stress tighter with overall market liquidity. In this article, we revisit several key metrics we've been watching since SVB failure to gauge the current stress level within the banking system. We also explore the various channels through which bank stress can affect market liquidity. Through analyzing past weeks' data, we try to make our best projection of market liquidity for the coming months.
+Since 2022, regional banks have been having a hard time. The introduction of the Bank Term Funding Program (BTFP) has tied banking sector stress tighter with overall market liquidity. In this article, we revisit several key metrics we've been watching since SVB failure to gauge the current stress level within the banking system. We also explore the various channels through which bank stress can affect market liquidity. Through analyzing past weeks' data, we try to project a path forward for regional banks, as well as market liquidity, for the coming months.
 
 ---
 
