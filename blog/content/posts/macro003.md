@@ -6,7 +6,7 @@ draft: false
 
 ## Summary
 
-Since the introduction of the Bank Term Funding Program (BTFP), stress within the banking sector has been more closely tied to overall market liquidity. In this article, we explore the various channels through which bank stress affects market liquidity. We revisit several key metrics we've been watching since the SVB failure, and try to make our best projection for market liquidity for the coming months.
+Since 2022, regional banks have been having a hard time. The introduction of the Bank Term Funding Program (BTFP) has tied banking sector stress tighter with overall market liquidity. In this article, we revisit several key metrics we've been watching since SVB failure to gauge the current stress level within the banking system. We also explore the various channels through which bank stress can affect market liquidity. Through analyzing past weeks' data, we try to make our best projection of market liquidity for the coming months.
 
 ---
 
@@ -20,7 +20,7 @@ The underlying reason for such stress is largely due to the banks' exposure to i
 
 > Almost all banks suffered a few percentage point capital ratio loss due to duration exposure. SVB was one of the more severely impacted banks. As this data was reported in Q4 2022, further rapid rise in interest rates in Feb 2023 likely finally pushed SVB into underwater territory.
 
-Some banks were more exposed to interest rate risk than others. SVB had a particularly large exposure to long-dated Treasury and Agency MBS, which saw rapid decline in value as interest rate rose rapidly in 2022. First Republic had a particularly low yielding loan book, as it subsidized many rich Californian homeowners with their 2% 30-year fixed mortgage (ridiculous!) in 2021.
+Some banks were more exposed to interest rate risk than others. SVB had a particularly large exposure to long-dated Treasury and Agency MBS, which saw rapid decline in value as interest rate rose rapidly in 2022, and had a concentration problem of deposits from venture capital. First Republic had a particularly low yielding loan book, as it subsidized many rich Californian homeowners with their 2% 30-year fixed mortgage (ridiculous!) in 2021.
 
 Those were stupidity on their side, but there will always be outliers in any system. The fact that all failing banks are outliers, does not mean the system is "safe and sound". Instead, if it were "safe and sound" we wouldn't have needed programs like BTFP.
 
@@ -40,7 +40,7 @@ As discussed in my [previous article](https://zyw229.github.io/posts/macro001/),
 
 ### Liquidity push and pull
 
-The introduction of BTFP created an interesting dynamic. The tighter financial condition is, the more usage of BTFP it will encourage, therefore effectively negating some of the effects of tight financial condition.
+The introduction of BTFP created an interesting dynamic. The tighter financial condition is, the more usage of BTFP it encourages, therefore effectively negating some of the effects of tight financial condition.
 
 If financial condition is so tight to the extent that it causes more banks to fail, the tightening effect caused by money being destroyed will also be partially negated by liquidity injection through FDIC loans.
 
@@ -50,7 +50,7 @@ If financial condition is so tight to the extent that it causes more banks to fa
 
 ### How heavily are those facilities used?
 
-Quantitatively, how much liquidity has these facilities contributed to overall market liquidity? Here, we look at the individual usage of these facilities since the start of March, since before the time of SVB failure.
+Quantitatively, how much liquidity has these facilities contributed to overall market liquidity? Here, we look at the individual usage of these facilities since the start of March, right before the SVB failure.
 
 ![Fig3](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro003/image003.png)
 
@@ -75,7 +75,7 @@ Assuming no more bank failures, the ongoing QT and the upcoming TGA refill (to b
 
 Banks have other assets that are not BTFP-eligible (e.g. commercial real estate loans). If anything, those will probably be the main reason if more banks were to fail later in the year. However, after the initial SVB shock that caught regional banks off guard, a lot of banks have significantly improved their asset allocation to be more resilient to future interest rate shocks. One notable example is one struggling bank: PacWest, who [proactively offloaded some portion of its bad loans](https://finance.yahoo.com/news/struggling-pacwest-offloads-real-estate-151928827.html). All regional banks, barring a few outliers, should be well positioned to survive another few months.
 
-Although bank can do whatever it needs to improve its asset allocation, it cannot solve the fundamental problem that deposits are slowly leaving the system. This deposit loss is not necessarily due to panic, but rather due to much better alternative (even the RRP is at 5%!) compared to the deposit rates those banks are offering.
+Although banks can do whatever they need to improve its asset allocation, it cannot solve the fundamental problem that deposits are slowly leaving the system. This deposit loss is not necessarily due to panic, but rather due to much better alternative (even the RRP is at 5%!) compared to the deposit rates those banks are offering.
 
 ![Fig5](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro003/image005.png)
 
@@ -85,8 +85,8 @@ First Republic has shown us a slow bank run can cause a bank to fail. As this "b
 
 ## Liquidity outlook
 
-In the short term, relative stability in the regional banks are bad news for market liquidity, since it sets up a period of liquidity drain.
+In the short term, relative stability in the regional banks is bad news for market liquidity, since it sets up a period of liquidity drain.
 
-With the Treasury replenishing the TGA in the second half of year, financial condition is likely to further worsen on top of that, causing interest rates to rise in the near term, and more bank stress. Although BTFP usage can negate part of this financial condition tightening, my expectation is that it won't be of the same magnitude. The pressure will continue to build until we see clear signals of massive monetary easing.
+With the Treasury replenishing the TGA in the second half of year, financial condition is likely to further worsen on top of that, causing interest rates to rise in the near term, and more bank stress. Although BTFP usage can negate part of this financial condition tightening, my expectation is that it won't be of the same magnitude as QT + TGA combined.
 
 Until more bank fails, there is probably no liquidity relief in sight. Investors will have to get through the next few months and, ironically, pray for the next batch of banks to fail. And, maybe if enough of them fail, the Fed will go back to buying stuff again in the second half of the year :)
