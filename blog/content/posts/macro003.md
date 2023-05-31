@@ -36,7 +36,7 @@ To mitigate the immediate crisis, the Fed, working in conjunction with the Treas
 
 > Above-mentioned facilities shows up as reserve balance entries in the Fed balance sheet.
 
-As discussed in my [previous article](https://zyw229.github.io/posts/macro001/), although not technically QE, the above-mentioned facilities positively impact overall market liquidity. An increase in usage of those facilities should have a marginal equivalent effect of QE, as it marginally pushes investors into riskier assets.
+As discussed in my [previous article](https://zyw229.github.io/posts/macro001/), although not technically QE, the above-mentioned facilities positively impact overall market liquidity. An increase in usage of those facilities should have a marginal equivalent effect of QE, as it pushes investors into riskier assets.
 
 ### Liquidity push and pull
 
@@ -87,6 +87,6 @@ First Republic has shown us a slow bank run can cause a bank to fail. As this "b
 
 In the short term, relative stability in the regional banks is bad news for market liquidity, since it sets up a period of liquidity drain.
 
-With the Treasury replenishing the TGA in the second half of year, financial condition is likely to further worsen on top of that, causing interest rates to rise in the near term, and more bank stress. Although BTFP usage can negate part of this financial condition tightening, my expectation is that it won't be of the same magnitude as QT + TGA combined.
+With the Treasury replenishing the TGA in the second half of year, financial condition is likely to further worsen, causing interest rates to rise in the near term, and more bank stress. Although BTFP usage can negate part of this financial condition tightening, my expectation is that it won't be of the same magnitude as QT + TGA combined.
 
 Until more bank fails, there is probably no liquidity relief in sight. Investors will have to get through the next few months and, ironically, pray for the next batch of banks to fail. And, maybe if enough of them fail, the Fed will go back to buying stuff again in the second half of the year :)
