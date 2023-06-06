@@ -20,7 +20,7 @@ The political drama revolved around US debt ceiling has finally ended, but its r
 
 ## Marginal buyers
 
-Such extra treasury bond issuance alone is not conclusive on the liquidity impact on the broader market, since it is unclear who will buy up those extra treasury offerings. There will be two major potential sources of funding for this extra liquidity: **Bank reserves** or **Reverse Repo Facility (RRP)**. The question is: who will eventually end up buying those extra treasury bonds?
+Such extra treasury bond issuance alone is not conclusive on the liquidity impact on the broader market, since it is unclear who will buy up those extra treasury offerings. There are two major sources of funding for this extra liquidity: **Bank reserves** or **Reverse Repo Facility (RRP)**. The question is: who will eventually end up buying those extra treasury bonds?
 
 Whether the TGA refill will mainly be funded by retail / institutional investors via bank reserves; or by Money Market Funds (MMF) via RRP, will have huge implication on the liquidity path. If the RRP is the main source of funding, the impact of TGA refill will be mostly neutral; while a majority bank reserve funding scenario will be harmful for market liquidity.
 
