@@ -66,7 +66,7 @@ MMFs, as regulated, can only invest in so-called "risk-free assets" such as RRP 
 
 However, there is a strong alternative presented to the MMFs: the RRP is offering 5.05% annualized rate. This rate is set to be 5 basis points higher than the current lower bound of FFR. With current 1-month to 6-month Treasury yield sitting between 5.25% - 5.50%, one may still argue that T-bills are still *marginally more attractive* than the RRP rate.
 
-If Fed were to raise FFR again in June, it will set RRP rate to 5.30%, bringing it essentially to parity with short T-bills. In this situation, Fed would definitely love to keep RRP rate at 5.05%, such that it's marginally less attractive than short-term T-bills, and use this chance to induce more money out of the RRP.
+If Fed were to raise FFR again in June, it will set RRP rate to 5.30%, bringing it essentially to parity with short T-bills. Right now, Fed would definitely love to keep RRP rate at 5.05%, such that T-bills are still marginally more attractive than the RRP, and use this chance to induce more money out of the RRP.
 
 # Good news is good news again
 
@@ -78,8 +78,8 @@ Stronger economic data will attract more funds into the stock market, leading to
 
 > Short term T-bills (1-6 month) are a little higher than the RRP rate (5.05%) as of now (red); while right after the SVB shock, the entire treasury yield curve briefly entirely submerged under RRP rate (of 4.80%) at that time (blue).
 
-Right now, Fed has been successful in convincing the market they will do another rate hike in July. This cooperative attitude in the market is grounded in the belief in a strong economy and soft-landing. The small bump (indicating an expectation in July hike) in risk-free yield in the 1 to 6-month section has provided at least some reason for RRP money to come out.
+Right now, Fed has been successful in convincing the market they will do another rate hike in July. This cooperative attitude in the market is grounded in the belief that we'll have a strong economy and a soft-landing. The small bump (indicating an expectation in July hike) in risk-free yield in the 1 to 6-month section has provided at least some reason for RRP money to come out.
 
-For this plot to succeed, it is important for yield curve not to collapse, and new economic data to continue to deliver. In this market, good news will be good news again.
+For this plan (to induce money out of RRP) to succeed, it is important for yield curve not to collapse, and new economic data to continue to deliver. In this market, good news will be good news again.
 
-Strong economic data, such as employment data, will be helpful to the market. Even a mildly strong **inflation data**, as long as it's not blowing off estimates, will help support asset prices. After all, a solid inflation rate at least indicates a solid consumption economy, to some extent.
+Strong economic data, such as good employment data, will be helpful to the market. Even a mildly strong **inflation data**, as long as it's not blowing off estimates, will help support asset prices. After all, a solid inflation rate at least indicates a solid consumption economy, to some extent.
