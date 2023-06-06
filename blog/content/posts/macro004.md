@@ -64,13 +64,13 @@ MMFs, as regulated, can only invest in so-called "risk-free assets" such as RRP 
 
 > Money Market Funds have shown decent inflows, likely from retail and institution investors, since 2023.
 
-However, there is a strong alternative presented to the MMFs: the RRP is offering 5.05% annualized rate. This rate is set to be 5 basis points higher than the current lower bound of FFR. With current 1-month to 6-month Treasury yield sitting between 5.25% - 5.50%, one may still argue that T-bills are still *marginally more attractive* than the RRP rate.
+However, there is a strong alternative presented to the MMFs: the RRP is offering 5.05% annualized rate. This rate is set to be 5 basis points higher than the current lower bound of FFR. With current 1-month to 6-month Treasury yield sitting between 5.25% - 5.50%, one may argue that T-bills are still *marginally more attractive* than the RRP rate.
 
 If Fed were to raise FFR again in June, it will set RRP rate to 5.30%, bringing it essentially to parity with short T-bills. Right now, Fed would definitely love to keep RRP rate at 5.05%, such that T-bills are still marginally more attractive than the RRP, and use this chance to induce more money out of the RRP.
 
 # Good news is good news again
 
-After months of "bad news is good news" contrived thinking, as the market fears bad economic data will lead to higher terminal rate, we are returning to a regime where "good news is good news" again, as the Fed seems to be unwilling to exacerbate the liquidity drain by further raising FFR.
+After months of "bad news is good news" contrived thinking, as the market fears that good economic data will lead to higher terminal rate, we are returning to a regime where "good news is good news" again, as the Fed seems to be unwilling to exacerbate the liquidity drain by further raising FFR.
 
 Stronger economic data will attract more funds into the stock market, leading to higher bond yields, thus making room for RRP funds to flow out. On the contrary, weaker economic data will cause funds flowing out of stocks towards Treasury bonds, causing yield lower, further trapping money within RRP.
 
