@@ -54,7 +54,7 @@ The Fed has repeatedly committed that they'll be data dependent going forward. S
 
 However, in recent communications, Fed Chair Powell seems to have strongly insisted pausing rate increases in June, and keeping the option on the table for a makeup increase in July, even in the face of strong economic data.
 
-This left some people scratching their head: why skipping June and strongly hint a July hike?
+This left some people scratching their head: why skipping June and hint a July hike?
 
 ## Making RRP less attractive
 
@@ -70,7 +70,7 @@ If Fed were to raise FFR again in June, it will set RRP rate to 5.30%, bringing 
 
 # Good news is good news again
 
-After months of "bad news is good news" contrived thinking, as the market fears bad economic data will lead to higher terminal rate, we are returning to a regime where "good news is good news" again, as Fed terminal rate seems to be bound in the face of upcoming TGA refill.
+After months of "bad news is good news" contrived thinking, as the market fears bad economic data will lead to higher terminal rate, we are returning to a regime where "good news is good news" again, as the Fed seems to be unwilling to exacerbate the liquidity drain by further raising FFR.
 
 Stronger economic data will attract more funds into the stock market, leading to higher bond yields, thus making room for RRP funds to flow out. On the contrary, weaker economic data will cause funds flowing out of stocks towards Treasury bonds, causing yield lower, further trapping money within RRP.
 
