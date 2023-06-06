@@ -12,7 +12,7 @@ Now that the US debt ceiling is resolved, market is faced with a large amount of
 
 # Treasury General Account (TGA) refill
 
-The political drama revolved around US debt ceiling has finally ended, but its real impact on the market has just started. The settlement means the US Treasury can finally issue more debt to fund its deficit. That itself is not news for the market. However, what market participants are concerned about is the rapid refill of the Treasury General Account (TGA), which will result in $550-600B of extra liquidity being absorbed from the system (to fund those Bond purchases).
+The political drama revolved around US debt ceiling has finally ended, but its real impact on the market has just started. The settlement means the US Treasury can finally issue more debt to fund its deficit. That itself is not news for the market. However, what market participants are concerned about is the rapid refill of the TGA, which will result in $550-600B of extra liquidity being absorbed from the system (to fund those Bond purchases).
 
 ![Fig1](https://raw.githubusercontent.com/zyw229/zyw229.github.io/main/contents/macro004/image001.png)
 
