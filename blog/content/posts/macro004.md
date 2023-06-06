@@ -1,12 +1,12 @@
 ---
 title: "TGA refill: good news is good news again"
 date: 2023-06-05T18:36:51-07:00
-draft: true
+draft: false
 ---
 
 # Summary
 
-Now that the US debt ceiling is resolved, market is faced with a large amount of new bill issuance in Q3 2023. Whether this new issuance is funded via RRP versus bank reserves makes a huge difference in market liquidity. This article speculates why the anticipated Fed "pause" in June might have something to do with TGA refill. It also discusses TGA refill's mechanics, and why "good news is good news" might be true again for the market going forward.
+Now that the US debt ceiling is resolved, market is faced with a large amount of new bill issuance in Q3 2023. Whether this new issuance is funded via RRP versus bank reserves makes a huge difference in market liquidity. This article speculates why the promised Fed "pause" in June is to help facilitate the TGA refill. It also discusses how the refill process is linked to the real economy data, and why "good news is good news" might be true again for the market going forward.
 
 ---
 
