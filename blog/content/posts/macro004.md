@@ -6,11 +6,11 @@ draft: false
 
 # Summary
 
-Now that the US debt ceiling is resolved, market is faced with a large amount of new bill issuance in Q3 2023. Whether this new issuance is funded via RRP versus bank reserves makes a huge difference in market liquidity. This article speculates why the promised Fed "pause" in June is to help facilitate the TGA refill. It also discusses how the refill process is linked to the real economy data, and why "good news is good news" might be true again for the market going forward.
+Now that the US debt ceiling is resolved, market is faced with a large amount of new bill issuance in Q3 2023 to refill the TGA. Whether this new issuance is funded via RRP versus bank reserves makes a huge difference in market liquidity. This article speculates why the promised Fed "pause" in June is to help facilitate the TGA refill. It also discusses how the refill process is linked to the real economy data, and why "good news is good news" might be true again for the market going forward.
 
 ---
 
-# TGA refill
+# Treasury General Account (TGA) refill
 
 The political drama revolved around US debt ceiling has finally ended, but its real impact on the market has just started. The settlement means the US Treasury can finally issue more debt to fund its deficit. That itself is not news for the market. However, what market participants are concerned about is the rapid refill of the Treasury General Account (TGA), which will result in $550-600B of extra liquidity being absorbed from the system (to fund those Bond purchases).
 
